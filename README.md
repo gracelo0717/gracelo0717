@@ -13,8 +13,5 @@ Let's Connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.sv
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gracelo0717&show_icons=true&theme=one_dark_pro&bg_color=00000000&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gracelo0717&theme=default_repocard&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=gracelo0717&icon=5&color=12)](https://visitcount.itsvg.in)
