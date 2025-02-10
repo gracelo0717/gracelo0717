@@ -1,4 +1,4 @@
-# console.log("Hi, I'm Grace! Welcome to my GitHub!") 👋</br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=30&duration=6000&pause=1000&color=F7F7F7&background=000000&vCenter=true&width=1160&height=40&separator=%3C&lines=console.log(%22Hello+World%2C+I'm+Grace!+Welcome+to+my+GitHub!%22);+%F0%9F%91%8B)](https://git.io/typing-svg)
 #### 💡 This is my journey as a Software Engineer: Striving to be like Bob the Builder, but with code – Learn, Build, Debug, and Repeat!<br/>
 #### 🔍 Currently: Contributing to the open-source community and building my proudest product - [DeClustor](https://github.com/oslabs-beta/DeClustor/tree/dev). Learn more about it in this [Medium article](https://medium.com/@lo.grace717/streamline-your-cluster-deployments-and-monitoring-with-declustor-a2805802f826)
 #### 🎬 Hobby: Capturing life's little moments through my vlog camera - YouTube channel coming soon!<br/>
